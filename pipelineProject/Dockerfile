@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
  
 WORKDIR /src
  
-COPY ["pipelineProject.csproj", "./"]
+COPY ["pipelineProject.csproj", "."]
  
 RUN dotnet restore "pipelineProject.csproj"
  
@@ -14,7 +14,6 @@ FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
  
 COPY --from=build /app/publish .
-# ? This is a Dockerfile instruction, not a terminal command
  
 ENV ASPNETCORE_ENVIRONMENT=Development
  
