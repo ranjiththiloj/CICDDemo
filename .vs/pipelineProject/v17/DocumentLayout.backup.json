@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Docker\\pipelineProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|d:\\docker\\pipelineproject\\pipelineproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|solutionrelative:pipelineproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|d:\\docker\\pipelineproject\\pipelineproject\\pipelineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|solutionrelative:pipelineproject\\pipelineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\Dockerfile",
+              "RelativeDocumentMoniker": "pipelineProject\\Dockerfile",
+              "ToolTip": "D:\\Docker\\pipelineProject\\pipelineProject\\Dockerfile",
+              "RelativeToolTip": "pipelineProject\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:39:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "pipelineProject",
               "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\pipelineProject.csproj",
               "RelativeDocumentMoniker": "pipelineProject\\pipelineProject.csproj",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Docker\\pipelineProject\\TestFantacy\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestFantacy\\UnitTest1.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "pipelineProject\\Pages\\Index.cshtml",
