@@ -25,9 +25,9 @@ D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\staticwebassets.build
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\staticwebassets.development.json
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.dll
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\refint\pipelineProject.dll
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.pdb
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.genruntimeconfig.cache
 D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\ref\pipelineProject.dll
+D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.sourcelink.json

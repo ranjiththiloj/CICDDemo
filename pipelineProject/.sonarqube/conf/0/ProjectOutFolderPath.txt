@@ -1,0 +1,1 @@
+D:\Docker\pipelineProject\pipelineProject\.sonarqube\out\0

@@ -1,0 +1,9 @@
+j
+_D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.RazorAssemblyInfo.csutf-8e
+ZD:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.AssemblyInfo.csutf-8t
+iD:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8g
+\D:\Docker\pipelineProject\pipelineProject\obj\Debug\net8.0\pipelineProject.GlobalUsings.g.csutf-8=
+4D:\Docker\pipelineProject\pipelineProject\Program.csutf-8J
+AD:\Docker\pipelineProject\pipelineProject\Pages\Privacy.cshtml.csutf-8H
+?D:\Docker\pipelineProject\pipelineProject\Pages\Error.cshtml.csutf-8H
+?D:\Docker\pipelineProject\pipelineProject\Pages\Index.cshtml.csutf-8

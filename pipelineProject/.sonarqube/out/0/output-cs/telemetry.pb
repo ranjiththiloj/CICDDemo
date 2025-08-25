@@ -1,0 +1,1 @@
+VR@D:\Docker\pipelineProject\pipelineProject\pipelineProject.csproj¢net8.0òCSharp12

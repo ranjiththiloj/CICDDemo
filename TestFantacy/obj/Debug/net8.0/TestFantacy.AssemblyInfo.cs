@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestFantacy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7560dc233b35571bb2e83ab319eb1e9345e9be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399923581b5b2a0d438c99245b77b1a3fd460e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestFantacy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestFantacy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

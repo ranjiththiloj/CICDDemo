@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelineProject", "pipeline
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFantacy", "TestFantacy\TestFantacy.csproj", "{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelineProject.AppHost", "pipelineProject.AppHost\pipelineProject.AppHost.csproj", "{05FE4AE1-70D6-4E95-8CDC-107A963658DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelineProject.ServiceDefaults", "pipelineProject.ServiceDefaults\pipelineProject.ServiceDefaults.csproj", "{D156FEF4-E178-2FD8-0D36-3CF8DA8B3357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE4AE1-70D6-4E95-8CDC-107A963658DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE4AE1-70D6-4E95-8CDC-107A963658DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE4AE1-70D6-4E95-8CDC-107A963658DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE4AE1-70D6-4E95-8CDC-107A963658DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D156FEF4-E178-2FD8-0D36-3CF8DA8B3357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D156FEF4-E178-2FD8-0D36-3CF8DA8B3357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D156FEF4-E178-2FD8-0D36-3CF8DA8B3357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D156FEF4-E178-2FD8-0D36-3CF8DA8B3357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

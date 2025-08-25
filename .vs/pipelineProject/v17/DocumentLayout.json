@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Docker\\pipelineProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|d:\\docker\\pipelineproject\\pipelineproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|solutionrelative:pipelineproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|d:\\docker\\pipelineproject\\pipelineproject\\pipelineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7313457-0E3F-419E-85BC-8B3890D57306}|pipelineProject\\pipelineProject.csproj|solutionrelative:pipelineproject\\pipelineproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}|TestFantacy\\TestFantacy.csproj|d:\\docker\\pipelineproject\\testfantacy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF37CE7-50E4-45CB-82F5-9496A197CD7B}|TestFantacy\\TestFantacy.csproj|solutionrelative:testfantacy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\Dockerfile",
+              "RelativeDocumentMoniker": "pipelineProject\\Dockerfile",
+              "ToolTip": "D:\\Docker\\pipelineProject\\pipelineProject\\Dockerfile",
+              "RelativeToolTip": "pipelineProject\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:39:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pipelineProject",
+              "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\pipelineProject.csproj",
+              "RelativeDocumentMoniker": "pipelineProject\\pipelineProject.csproj",
+              "ToolTip": "D:\\Docker\\pipelineProject\\pipelineProject\\pipelineProject.csproj",
+              "RelativeToolTip": "pipelineProject\\pipelineProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T06:34:09.975Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -30,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Docker\\pipelineProject\\TestFantacy\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestFantacy\\UnitTest1.cs",
               "ToolTip": "D:\\Docker\\pipelineProject\\TestFantacy\\UnitTest1.cs",
               "RelativeToolTip": "TestFantacy\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T05:23:37.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Docker\\pipelineProject\\pipelineProject\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "pipelineProject\\Pages\\Index.cshtml",
@@ -51,8 +85,7 @@
               "RelativeToolTip": "pipelineProject\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:32:04.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:32:04.179Z"
             }
           ]
         }

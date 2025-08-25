@@ -1,0 +1,6 @@
+projectKey=CICDPipeline
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=CICDPipeline
+ceTaskId=bc72ea0e-ee43-4b24-b436-eb3aabf9c353
+ceTaskUrl=http://localhost:9000/api/ce/task?id=bc72ea0e-ee43-4b24-b436-eb3aabf9c353
